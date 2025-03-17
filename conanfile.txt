@@ -1,2 +1,6 @@
 [requires]
 rdf4cpp/0.0.24
+
+[generators]
+CMakeDeps
+CMakeToolchain
